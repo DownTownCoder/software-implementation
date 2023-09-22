@@ -1,0 +1,4 @@
+package com.downtowncoder.software_implementation.programming_languages.jmh_generated;
+public class UnaryVsNegateExactBenchmark_jmhType extends UnaryVsNegateExactBenchmark_jmhType_B3 {
+}
+
