@@ -1,4 +1,0 @@
-package com.baeldung.diffstringstringbuffer.jmh_generated;
-public class StringVsStringBufferVsStringBuilderBenchmark_jmhType extends StringVsStringBufferVsStringBuilderBenchmark_jmhType_B3 {
-}
-
