@@ -1,0 +1,4 @@
+package com.downtowncoder.diffstringbuffer.jmh_generated;
+public class StringVsStringBuilderBenchmark_jmhType extends StringVsStringBuilderBenchmark_jmhType_B3 {
+}
+
